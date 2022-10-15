@@ -1,0 +1,32 @@
+body {
+    background-color: #EEE5E9;
+  }
+  
+  label {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(88, 82, 79);
+    font-size: 14pt;
+  }
+  
+  h1 {
+    background-color: #AAC0AA;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border: 2px solid rgb(57, 70, 78);
+    color: #131200;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .button{
+    background-color: #2b3e49;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
